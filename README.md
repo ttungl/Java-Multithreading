@@ -1,5 +1,4 @@
 # Java-Multithreading
-
 1. Starting threads
 2. Basic Thread Synchronization
 3. Synchronized Keyword
